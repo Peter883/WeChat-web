@@ -6,7 +6,7 @@ html_content = '''<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>生日祝福</title>
+    <title>祝福</title>
     <style>
         html, body {
             height: 100%;
@@ -31,7 +31,7 @@ html_content = '''<!DOCTYPE html>
 </head>
 <body>
     <div>
-        蓓妮生日快乐<span class="emoji">🎂</span>
+        天天开心吖<span class="emoji">[坏笑]</span>
     </div>
 </body>
 </html>
