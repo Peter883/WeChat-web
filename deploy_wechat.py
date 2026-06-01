@@ -47,7 +47,7 @@ def generate_html():
 </head>
 <body>
     <div>
-        天天开心吖<span class="emoji">🥰</span>
+        羽暄小朋友六一快乐吖<span class="emoji">🥰</span>
     </div>
 </body>
 </html>
