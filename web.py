@@ -31,7 +31,7 @@ html_content = '''<!DOCTYPE html>
 </head>
 <body>
     <div>
-        端午安康<span class="emoji">🥰</span>
+        中秋快乐<span class="emoji">🌹</span>
     </div>
 </body>
 </html>
